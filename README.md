@@ -1,4 +1,4 @@
-# [SCP:CS] Door management panel (0.1 V - Есть баги по комнатам)
+# [SCP:CS] Door management panel (0.1 V)
 
 
 <img alt="Static Badge" src="https://img.shields.io/badge/By%20Smoxeq%20-%20scp%3Acs?style=for-the-badge&logo=scpfoundation&logoColor=black&label=SCP%3ACLASSIFIED%20SITE%20API&color=blue">
